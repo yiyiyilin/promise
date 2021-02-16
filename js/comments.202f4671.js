@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["comments"],{da1e:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 评论 ")])},l=[],s={},u=s,a=t("2877"),o=Object(a["a"])(u,c,l,!1,null,null,null);n["default"]=o.exports}}]);
+//# sourceMappingURL=comments.202f4671.js.map

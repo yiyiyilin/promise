@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["write"],{"5ae6":function(e,n,t){"use strict";t.r(n);var l=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 写文章 ")])},r=[],u={},a=u,c=t("2877"),i=Object(c["a"])(a,l,r,!1,null,null,null);n["default"]=i.exports}}]);
+//# sourceMappingURL=write.1bf94fca.js.map

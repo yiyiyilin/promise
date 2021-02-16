@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["addpage"],{9799:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 新建页面 ")])},l=[],u={},c=u,r=t("2877"),s=Object(r["a"])(c,a,l,!1,null,null,null);n["default"]=s.exports}}]);
+//# sourceMappingURL=addpage.97cc7b1b.js.map
